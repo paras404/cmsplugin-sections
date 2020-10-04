@@ -1,5 +1,6 @@
 cmsplugin-sections
 ==================
+---CHECK OUT THIS AMAZING PLUGIN-SECTION---
 
 This is a plugin "system" (really just two) for making "single-page scroller"
 websites super easy.
